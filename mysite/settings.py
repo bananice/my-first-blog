@@ -25,7 +25,7 @@ SECRET_KEY = 'vf#o$1flv87855&8g!_(wpf=oco_anc6_v@jemrtho2r%y@c3h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['niniprogramando.pythonanywhere.com']
 
 
 # Application definition
